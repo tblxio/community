@@ -1,9 +1,14 @@
 # Community
 Global community based in Lisbon to explore the future of transportation &amp; logistics
 
-## Check presentation here:
-https://techhublisbon.github.io/community/
+Project based on [reveal.js](https://github.com/hakimel/reveal.js).
+See [basic setup](https://github.com/hakimel/reveal.js/#basic-setup)
 
-#### How to contribute:
-* Copy/Paste reveal package template. See [basic setup](https://github.com/hakimel/reveal.js/#basic-setup)
-* Edit [docs/index.html]()
+### Check our community web-page:
+https://techhublisbon.github.io/community/index.html
+
+### How to contribute:
+* Add new slide sections to [index.html](docs/index.html)
+
+### How to run:
+* Open file [index.html](docs/index.html) and navigate

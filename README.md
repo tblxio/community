@@ -1,14 +1,31 @@
 # Community
-Global community based in Lisbon to explore the future of transportation &amp; logistics
 
-Project based on [reveal.js](https://github.com/hakimel/reveal.js).
-See [basic setup](https://github.com/hakimel/reveal.js/#basic-setup)
+At the DTB Tech & Data Hub, a 100% subsidiary of Daimler Trucks and Buses based in Lisbon, 
+we are building global services for the commercial vehicle industry.
 
-### Check our community web-page:
+This repository explores our involvement in the Community.
+You can find:
+* Events
+* Articles
+* Social Media links
+* And more...
+
+## Check out our web-page:
 https://techhublisbon.github.io/community/index.html
 
-### How to contribute:
-* Add new slide sections to [index.html](docs/index.html)
+### How to contribute
 
-### How to run:
-* Open file [index.html](docs/index.html) and navigate
+Feel free to suggest changes by creating an issue or simply suggest new content by opening a pull request
+
+Project is based on [reveal.js](https://github.com/hakimel/reveal.js)
+See [basic setup](https://github.com/hakimel/reveal.js/#basic-setup)
+
+To add new slides/sections, simply edit file [index.html](docs/index.html)
+
+### How to run
+
+Open file [index.html](docs/index.html) directly on a browser of your choice
+
+### License
+
+This project is licensed under the terms of the MIT license. See [LICENSE](LICENSE) 

@@ -8,6 +8,7 @@ You can find:
 * Events
 * Articles
 * Social Media links
+* Meetups
 * And more...
 
 ## Check out our web-page:

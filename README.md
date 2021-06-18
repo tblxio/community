@@ -1,6 +1,6 @@
 # Community
 
-At the DTB Tech & Data Hub, a 100% subsidiary of Daimler Trucks and Buses based in Lisbon, 
+At the DTB Tech & Data Hub, a 100% subsidiary of Daimler Trucks and Buses based in Lisbon,
 we are building global services for the commercial vehicle industry.
 
 This repository explores our involvement in the Community.
@@ -12,7 +12,7 @@ You can find:
 * And more...
 
 ## Check out our web-page:
-https://techhublisbon.github.io/community/index.html
+https://tblxio.github.io/community/index.html
 
 ### How to contribute
 
@@ -29,4 +29,4 @@ Open file [index.html](docs/index.html) directly on a browser of your choice
 
 ### License
 
-This project is licensed under the terms of the MIT license. See [LICENSE](LICENSE) 
+This project is licensed under the terms of the MIT license. See [LICENSE](LICENSE)
